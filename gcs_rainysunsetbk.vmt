@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	$basetexture "skybox/gcs_rainysunsetbk"
+	$hdrcompressedtexture "skybox/gcs_rainysunsetbk"
+	$nofog 1
+	$ignorez 1
+}
