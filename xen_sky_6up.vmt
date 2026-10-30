@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "xen_sky_6up"
+	"$hdrcompressedtexture" "xen_sky_6up"
+	"$nofog" 1
+}
